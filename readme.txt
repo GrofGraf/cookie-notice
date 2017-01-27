@@ -1,0 +1,1 @@
+Cookie notice sample, fixed to bottom. No design included, except animation on show.
